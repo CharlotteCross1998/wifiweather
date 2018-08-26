@@ -22,5 +22,3 @@ https://github.com/csparpa/pyowm/wiki/Usage-examples   ---    pyowm   ---   Open
 https://home.openweathermap.org/api_keys   ---   API Key for OWM
 
 http://wiki.lemaker.org/BananaPro/Pi:WiFi_configuration   ---   BananaPro Documentation For Wifi Configuration
-
-https://twitter.com/HBnotHP  --- Creator
